@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luxifearzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
+# Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/327452983958962176)](https://discord.com/users/327452983958962176)
 
 [![](https://visitcount.itsvg.in/api?id=luxifearzz&icon=0&color=0)](https://visitcount.itsvg.in)
