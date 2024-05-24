@@ -14,6 +14,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/327452983958962176)](https://discord.com/users/327452983958962176)
 ---
 
-[![](https://visitcount.itsvg.in/api?id=luxifearzz&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=luxifearzz&icon=0&color=0)](https://visitcount.itsvg.in) [![](https://visitcount.itsvg.in/api?id=xabcdef&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
