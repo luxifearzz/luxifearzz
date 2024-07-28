@@ -20,6 +20,7 @@
         <img alt="Discord" src="https://lanyard.cnrad.dev/api/327452983958962176?showDisplayName=true"/>
     </a>
 </p>
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=luxifearzz&icon=0&color=0)](https://visitcount.itsvg.in) 
